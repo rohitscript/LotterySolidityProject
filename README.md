@@ -1,1 +1,1 @@
-# SolodityProject
+# SolidityProject
